@@ -1,5 +1,9 @@
 # Hertz看天下 电子期刊
 
+<script type="text/javascript">
+alert("welcome");
+</script>
+
 ## 三一文创祝各位新年快乐，平安大吉，阖府康健。
 ![1579932597708.jpeg](https://i.loli.net/2020/01/25/7SLIj6vcMyDBT2N.jpg)
 ## 英语听力
